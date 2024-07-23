@@ -2,6 +2,6 @@
 # Talles Cardoso Ornelas
 
 # Nível de conhecimento:
-# CSS: Básico
-# HTML: Básico
+CSS: Básico
+HTML: Básico
 
